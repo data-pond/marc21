@@ -1,0 +1,49 @@
+{
+  "name": "@the_library/marc21",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "CLI tool for extracting and categorizing MARC21 XML records",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "marc21-extract": "./dist/cli.js"
+  },
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "import": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsup ./src/index.ts ./src/cli.ts -d ./dist --dts --format esm --platform node --treeshake smallest",
+    "dev": "tsx ./src/cli.ts",
+    "test": "node --import tsx --test test/*.test.ts",
+    "tsc-check-types": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "keywords": [
+    "marc21",
+    "xml",
+    "library",
+    "metadata",
+    "cli",
+    "parser"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "tsup": "^8.3.6",
+    "tsx": "^4.19.3",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "xml2js": "^0.6.2",
+    "@types/xml2js": "^0.4.14"
+  }
+}

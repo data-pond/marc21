@@ -1,0 +1,10 @@
+/extracted/
+/books/
+/dist/
+/test/
+/test-optimized/
+/test-output/
+/OAPEN.json
+/OAPEN_2.json
+/test-categories.json
+/node_modules/
