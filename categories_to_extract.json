@@ -1,0 +1,1012 @@
+[
+  {
+    "name": "Economics, Finance, Business and Management",
+    "count": 3600,
+    "field": "650"
+  },
+  {
+    "name": "Education",
+    "count": 2850,
+    "field": "650"
+  },
+  {
+    "name": "The Arts",
+    "count": 2653,
+    "field": "650"
+  },
+  {
+    "name": "Language and Linguistics",
+    "count": 2197,
+    "field": "650"
+  },
+  {
+    "name": "Economics",
+    "count": 2031,
+    "field": "650"
+  },
+  {
+    "name": "Technology, Engineering, Agriculture, Industrial processes",
+    "count": 2003,
+    "field": "650"
+  },
+  {
+    "name": "Earth Sciences, Geography, Environment, Planning",
+    "count": 1962,
+    "field": "650"
+  },
+  {
+    "name": "Law",
+    "count": 1849,
+    "field": "650"
+  },
+  {
+    "name": "Mathematics and Science",
+    "count": 1821,
+    "field": "650"
+  },
+  {
+    "name": "Social groups, communities and identities",
+    "count": 1780,
+    "field": "650"
+  },
+  {
+    "name": "Linguistics",
+    "count": 1659,
+    "field": "650"
+  },
+  {
+    "name": "Philosophy",
+    "count": 1524,
+    "field": "650"
+  },
+  {
+    "name": "Interdisciplinary studies",
+    "count": 1453,
+    "field": "650"
+  },
+  {
+    "name": "Time period qualifiers",
+    "count": 1223,
+    "field": "650"
+  },
+  {
+    "name": "Media studies",
+    "count": 1205,
+    "field": "650"
+  },
+  {
+    "name": "Social and ethical issues",
+    "count": 1175,
+    "field": "650"
+  },
+  {
+    "name": "Computing and Information Technology",
+    "count": 1174,
+    "field": "650"
+  },
+  {
+    "name": "The environment",
+    "count": 1145,
+    "field": "650"
+  },
+  {
+    "name": "Business and Management",
+    "count": 1135,
+    "field": "650"
+  },
+  {
+    "name": "Industry and industrial studies",
+    "count": 671,
+    "field": "650"
+  },
+  {
+    "name": "Science: general issues",
+    "count": 662,
+    "field": "650"
+  },
+  {
+    "name": "Higher education, tertiary education",
+    "count": 638,
+    "field": "650"
+  },
+  {
+    "name": "Computer science",
+    "count": 633,
+    "field": "650"
+  },
+  {
+    "name": "Performing arts",
+    "count": 626,
+    "field": "650"
+  },
+  {
+    "name": "Social services and welfare, criminology",
+    "count": 614,
+    "field": "650"
+  },
+  {
+    "name": "Psychology",
+    "count": 586,
+    "field": "650"
+  },
+  {
+    "name": "Management and management techniques",
+    "count": 505,
+    "field": "650"
+  },
+  {
+    "name": "Architecture",
+    "count": 487,
+    "field": "650"
+  },
+  {
+    "name": "Educational strategies and policy",
+    "count": 481,
+    "field": "650"
+  },
+  {
+    "name": "International law",
+    "count": 474,
+    "field": "650"
+  },
+  {
+    "name": "Social welfare and social services",
+    "count": 417,
+    "field": "650"
+  },
+  {
+    "name": "Finance and accounting",
+    "count": 392,
+    "field": "650"
+  },
+  {
+    "name": "Physics",
+    "count": 391,
+    "field": "650"
+  },
+  {
+    "name": "Philosophy and theory of education",
+    "count": 390,
+    "field": "650"
+  },
+  {
+    "name": "The arts: general topics",
+    "count": 361,
+    "field": "650"
+  },
+  {
+    "name": "Agriculture and farming",
+    "count": 355,
+    "field": "650"
+  },
+  {
+    "name": "Energy technology and engineering",
+    "count": 334,
+    "field": "650"
+  },
+  {
+    "name": "Civil engineering, surveying and building",
+    "count": 332,
+    "field": "650"
+  },
+  {
+    "name": "Mechanical engineering and materials",
+    "count": 331,
+    "field": "650"
+  },
+  {
+    "name": "Environmental science, engineering and technology",
+    "count": 317,
+    "field": "650"
+  },
+  {
+    "name": "Language teaching and learning",
+    "count": 313,
+    "field": "650"
+  },
+  {
+    "name": "Regional and area planning",
+    "count": 304,
+    "field": "650"
+  },
+  {
+    "name": "Social groups",
+    "count": 300,
+    "field": "650"
+  },
+  {
+    "name": "Finance and the finance industry",
+    "count": 299,
+    "field": "650"
+  },
+  {
+    "name": "Lifestyle, Hobbies and Leisure",
+    "count": 275,
+    "field": "650"
+  },
+  {
+    "name": "Communication studies",
+    "count": 273,
+    "field": "650"
+  },
+  {
+    "name": "Ethics and moral philosophy",
+    "count": 269,
+    "field": "650"
+  },
+  {
+    "name": "Sustainability",
+    "count": 265,
+    "field": "650"
+  },
+  {
+    "name": "Information technology: general topics",
+    "count": 247,
+    "field": "650"
+  },
+  {
+    "name": "Public international law",
+    "count": 246,
+    "field": "650"
+  },
+  {
+    "name": "Schools and pre-schools",
+    "count": 234,
+    "field": "650"
+  },
+  {
+    "name": "Earth sciences",
+    "count": 232,
+    "field": "650"
+  },
+  {
+    "name": "Environmental economics",
+    "count": 222,
+    "field": "650"
+  },
+  {
+    "name": "The Arts: art forms",
+    "count": 220,
+    "field": "650"
+  },
+  {
+    "name": "Electronics and communications engineering",
+    "count": 214,
+    "field": "650"
+  },
+  {
+    "name": "Teaching skills and techniques",
+    "count": 208,
+    "field": "650"
+  },
+  {
+    "name": "Pollution and threats to the environment",
+    "count": 203,
+    "field": "650"
+  },
+  {
+    "name": "Social work",
+    "count": 200,
+    "field": "650"
+  },
+  {
+    "name": "Computer programming / software engineering",
+    "count": 194,
+    "field": "650"
+  },
+  {
+    "name": "Teacher training",
+    "count": 194,
+    "field": "650"
+  },
+  {
+    "name": "Children’s, Teenage and Educational",
+    "count": 191,
+    "field": "650"
+  },
+  {
+    "name": "Environmental management",
+    "count": 183,
+    "field": "650"
+  },
+  {
+    "name": "Educational systems and structures",
+    "count": 179,
+    "field": "650"
+  },
+  {
+    "name": "Applied ecology",
+    "count": 169,
+    "field": "650"
+  },
+  {
+    "name": "Conservation of the environment",
+    "count": 167,
+    "field": "650"
+  },
+  {
+    "name": "Ecological science, the Biosphere",
+    "count": 158,
+    "field": "650"
+  },
+  {
+    "name": "Social impact of environmental issues",
+    "count": 156,
+    "field": "650"
+  },
+  {
+    "name": "Media studies: internet, digital media and society",
+    "count": 155,
+    "field": "650"
+  },
+  {
+    "name": "Landscape architecture and design",
+    "count": 152,
+    "field": "650"
+  },
+  {
+    "name": "Educational material",
+    "count": 147,
+    "field": "650"
+  },
+  {
+    "name": "Economic systems and structures",
+    "count": 144,
+    "field": "650"
+  },
+  {
+    "name": "Digital Lifestyle and online world: consumer and user guides",
+    "count": 143,
+    "field": "650"
+  },
+  {
+    "name": "Agricultural science",
+    "count": 130,
+    "field": "650"
+  },
+  {
+    "name": "Non-graphic art forms",
+    "count": 129,
+    "field": "650"
+  },
+  {
+    "name": "Peace studies and conflict resolution",
+    "count": 127,
+    "field": "650"
+  },
+  {
+    "name": "Grammar, syntax and morphology",
+    "count": 126,
+    "field": "650"
+  },
+  {
+    "name": "Business strategy",
+    "count": 119,
+    "field": "650"
+  },
+  {
+    "name": "Comparative law",
+    "count": 117,
+    "field": "650"
+  },
+  {
+    "name": "City and town planning: architectural aspects",
+    "count": 111,
+    "field": "650"
+  },
+  {
+    "name": "Music: styles and genres",
+    "count": 110,
+    "field": "650"
+  },
+  {
+    "name": "Psychological theory, systems, schools and viewpoints",
+    "count": 105,
+    "field": "650"
+  },
+  {
+    "name": "Systems of law",
+    "count": 103,
+    "field": "650"
+  },
+  {
+    "name": "Educational psychology",
+    "count": 102,
+    "field": "650"
+  },
+  {
+    "name": "Agribusiness and primary industries",
+    "count": 101,
+    "field": "650"
+  },
+  {
+    "name": "Building construction and materials",
+    "count": 95,
+    "field": "650"
+  },
+  {
+    "name": "Environmentalist thought and ideology",
+    "count": 73,
+    "field": "650"
+  },
+  {
+    "name": "Geology, geomorphology and the lithosphere",
+    "count": 72,
+    "field": "650"
+  },
+  {
+    "name": "Business ethics and social responsibility",
+    "count": 70,
+    "field": "650"
+  },
+  {
+    "name": "Engineering: general",
+    "count": 68,
+    "field": "650"
+  },
+  {
+    "name": "Psychotherapy",
+    "count": 68,
+    "field": "650"
+  },
+  {
+    "name": "Hydrology and the hydrosphere",
+    "count": 68,
+    "field": "650"
+  },
+  {
+    "name": "Legal systems: general",
+    "count": 68,
+    "field": "650"
+  },
+  {
+    "name": "Accounting",
+    "count": 66,
+    "field": "650"
+  },
+  {
+    "name": "Ethical issues and debates",
+    "count": 62,
+    "field": "650"
+  },
+  {
+    "name": "Biodiversity",
+    "count": 60,
+    "field": "650"
+  },
+  {
+    "name": "Pre-school and kindergarten",
+    "count": 60,
+    "field": "650"
+  },
+  {
+    "name": "Algorithms and data structures",
+    "count": 60,
+    "field": "650"
+  },
+  {
+    "name": "Environment law",
+    "count": 57,
+    "field": "650"
+  },
+  {
+    "name": "Education: examinations and assessment",
+    "count": 57,
+    "field": "650"
+  },
+  {
+    "name": "Physical geography and topography",
+    "count": 57,
+    "field": "650"
+  },
+  {
+    "name": "Applied physics",
+    "count": 56,
+    "field": "650"
+  },
+  {
+    "name": "Computational and corpus linguistics",
+    "count": 56,
+    "field": "650"
+  },
+  {
+    "name": "Computer hardware",
+    "count": 55,
+    "field": "650"
+  },
+  {
+    "name": "Meteorology and climatology",
+    "count": 53,
+    "field": "650"
+  },
+  {
+    "name": "Elections and referenda / suffrage",
+    "count": 51,
+    "field": "650"
+  },
+  {
+    "name": "Electronic, holographic & video art",
+    "count": 51,
+    "field": "650"
+  },
+  {
+    "name": "Entertainment and media law",
+    "count": 51,
+    "field": "650"
+  },
+  {
+    "name": "News media and journalism",
+    "count": 50,
+    "field": "650"
+  },
+  {
+    "name": "Banking",
+    "count": 50,
+    "field": "650"
+  },
+  {
+    "name": "Astronomy, space and time",
+    "count": 50,
+    "field": "650"
+  },
+  {
+    "name": "Energy",
+    "count": 49,
+    "field": "650"
+  },
+  {
+    "name": "Dance",
+    "count": 49,
+    "field": "650"
+  },
+  {
+    "name": "Business and the environment",
+    "count": 48,
+    "field": "650"
+  },
+  {
+    "name": "‘green’ approaches to business",
+    "count": 48,
+    "field": "650"
+  },
+  {
+    "name": "Environmentally-friendly (‘green’) architecture and design",
+    "count": 48,
+    "field": "650"
+  },
+  {
+    "name": "Ethics & moral philosophy",
+    "count": 47,
+    "field": "650"
+  },
+  {
+    "name": "Business innovation",
+    "count": 45,
+    "field": "650"
+  },
+  {
+    "name": "Library, archive & information management",
+    "count": 43,
+    "field": "650"
+  },
+  {
+    "name": "Calculus and mathematical analysis",
+    "count": 41,
+    "field": "650"
+  },
+  {
+    "name": "Human biology",
+    "count": 41,
+    "field": "650"
+  },
+  {
+    "name": "Private international law and conflict of laws",
+    "count": 41,
+    "field": "650"
+  },
+  {
+    "name": "Forestry and silviculture",
+    "count": 41,
+    "field": "650"
+  },
+  {
+    "name": "Oral history",
+    "count": 40,
+    "field": "650"
+  },
+  {
+    "name": "Bioethics",
+    "count": 40,
+    "field": "650"
+  },
+  {
+    "name": "Expert systems / knowledge-based systems",
+    "count": 39,
+    "field": "650"
+  },
+  {
+    "name": "Technical design",
+    "count": 38,
+    "field": "650"
+  },
+  {
+    "name": "Language learning: specific skills",
+    "count": 37,
+    "field": "650"
+  },
+  {
+    "name": "Data mining",
+    "count": 37,
+    "field": "650"
+  },
+  {
+    "name": "International business",
+    "count": 36,
+    "field": "650"
+  },
+  {
+    "name": "Rural communities",
+    "count": 32,
+    "field": "650"
+  },
+  {
+    "name": "Paintings and painting",
+    "count": 32,
+    "field": "650"
+  },
+  {
+    "name": "Arbitration, mediation and alternative dispute resolution",
+    "count": 32,
+    "field": "650"
+  },
+  {
+    "name": "Universities",
+    "count": 29,
+    "field": "650"
+  },
+  {
+    "name": "Copyright law",
+    "count": 28,
+    "field": "650"
+  },
+  {
+    "name": "Conservation, restoration and care of artworks",
+    "count": 27,
+    "field": "650"
+  },
+  {
+    "name": "Energy, power generation, distribution and storage",
+    "count": 26,
+    "field": "650"
+  },
+  {
+    "name": "Structural engineering",
+    "count": 26,
+    "field": "650"
+  },
+  {
+    "name": "Agriculture, agribusiness and food production industries",
+    "count": 25,
+    "field": "650"
+  },
+  {
+    "name": "Conservation of wildlife and habitats",
+    "count": 25,
+    "field": "650"
+  },
+  {
+    "name": "Information retrieval",
+    "count": 25,
+    "field": "650"
+  },
+  {
+    "name": "User interface design and usability",
+    "count": 25,
+    "field": "650"
+  },
+  {
+    "name": "Sustainable agriculture",
+    "count": 23,
+    "field": "650"
+  },
+  {
+    "name": "Philosophy: logic",
+    "count": 23,
+    "field": "650"
+  },
+  {
+    "name": "Waste management",
+    "count": 22,
+    "field": "650"
+  },
+  {
+    "name": "Agronomy and crop production",
+    "count": 22,
+    "field": "650"
+  },
+  {
+    "name": "Educational: Mathematics, science and technology, general",
+    "count": 22,
+    "field": "650"
+  },
+  {
+    "name": "Budgeting and financial management",
+    "count": 22,
+    "field": "650"
+  },
+  {
+    "name": "Sports training and coaching",
+    "count": 21,
+    "field": "650"
+  },
+  {
+    "name": "Animal husbandry",
+    "count": 21,
+    "field": "650"
+  },
+  {
+    "name": "Educational: Social sciences, social studies",
+    "count": 20,
+    "field": "650"
+  },
+  {
+    "name": "Psychological testing and measurement",
+    "count": 20,
+    "field": "650"
+  },
+  {
+    "name": "Contract law",
+    "count": 20,
+    "field": "650"
+  },
+  {
+    "name": "Architecture: residential and domestic buildings",
+    "count": 20,
+    "field": "650"
+  },
+  {
+    "name": "Scientific standards, measurement etc",
+    "count": 20,
+    "field": "650"
+  },
+  {
+    "name": "Ethical issues & debates",
+    "count": 19,
+    "field": "650"
+  },
+  {
+    "name": "Philosophy: epistemology & theory of knowledge",
+    "count": 19,
+    "field": "650"
+  },
+  {
+    "name": "Information architecture",
+    "count": 19,
+    "field": "650"
+  },
+  {
+    "name": "Small businesses and self-employment",
+    "count": 18,
+    "field": "650"
+  },
+  {
+    "name": "Educational: Modern (non-native or second) languages",
+    "count": 18,
+    "field": "650"
+  },
+  {
+    "name": "Tropical agriculture",
+    "count": 18,
+    "field": "650"
+  },
+  {
+    "name": "Open learning, distance education",
+    "count": 18,
+    "field": "650"
+  },
+  {
+    "name": "Peace studies & conflict resolution",
+    "count": 18,
+    "field": "650"
+  },
+  {
+    "name": "Maths for engineers",
+    "count": 18,
+    "field": "650"
+  },
+  {
+    "name": "Police and security services",
+    "count": 18,
+    "field": "650"
+  },
+  {
+    "name": "Social interaction",
+    "count": 18,
+    "field": "650"
+  },
+  {
+    "name": "Self-help, personal development and practical advice",
+    "count": 17,
+    "field": "650"
+  },
+  {
+    "name": "Agricultural and rural economics",
+    "count": 17,
+    "field": "650"
+  },
+  {
+    "name": "Library & information services",
+    "count": 17,
+    "field": "650"
+  },
+  {
+    "name": "Environmental monitoring",
+    "count": 17,
+    "field": "650"
+  },
+  {
+    "name": "Food security and supply",
+    "count": 16,
+    "field": "650"
+  },
+  {
+    "name": "Educational: Arts, general",
+    "count": 16,
+    "field": "650"
+  },
+  {
+    "name": "Environmental factors",
+    "count": 15,
+    "field": "650"
+  },
+  {
+    "name": "Operating systems",
+    "count": 15,
+    "field": "650"
+  },
+  {
+    "name": "Hydraulic engineering",
+    "count": 14,
+    "field": "650"
+  },
+  {
+    "name": "Coding theory and cryptology",
+    "count": 14,
+    "field": "650"
+  },
+  {
+    "name": "Handicrafts, decorative arts and crafts",
+    "count": 14,
+    "field": "650"
+  },
+  {
+    "name": "Transport planning and policy",
+    "count": 14,
+    "field": "650"
+  },
+  {
+    "name": "Decision theory: general",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Environmental archaeology",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Optical physics",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Competence development",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Parenting: advice and issues",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Network security",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Internet and digital media: arts and performance",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Charities, voluntary services and philanthropy",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Sports management and facilities",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Musical scores, lyrics and libretti",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Animated films and animation",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Business communication and presentation",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Mobile phone technology",
+    "count": 13,
+    "field": "650"
+  },
+  {
+    "name": "Conservation of buildings and building materials",
+    "count": 12,
+    "field": "650"
+  },
+  {
+    "name": "Data protection law",
+    "count": 12,
+    "field": "650"
+  },
+  {
+    "name": "Educational: Sciences, general science",
+    "count": 12,
+    "field": "650"
+  },
+  {
+    "name": "Public relations",
+    "count": 11,
+    "field": "650"
+  },
+  {
+    "name": "Games development and programming",
+    "count": 11,
+    "field": "650"
+  },
+  {
+    "name": "Data capture and analysis",
+    "count": 11,
+    "field": "650"
+  },
+  {
+    "name": "Writing systems, alphabets",
+    "count": 11,
+    "field": "650"
+  },
+  {
+    "name": "Financial accounting",
+    "count": 10,
+    "field": "650"
+  },
+  {
+    "name": "Geometry",
+    "count": 10,
+    "field": "650"
+  },
+  {
+    "name": "Local government law",
+    "count": 10,
+    "field": "650"
+  },
+  {
+    "name": "Nature in art",
+    "count": 10,
+    "field": "650"
+  },
+  {
+    "name": "Cartography, map-making and projections",
+    "count": 10,
+    "field": "650"
+  }
+]
