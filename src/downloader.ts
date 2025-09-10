@@ -91,9 +91,26 @@ export class DownloadManager {
         const indexContent = await readFile(this.indexPath, 'utf8');
         this.index = JSON.parse(indexContent);
         
+        // Reset downloading and error states to pending for reprocessing
+        let resetCount = 0;
+        for (const isbn in this.index) {
+          const entry = this.index[isbn];
+          if (entry.downloadState === 'downloading' || entry.downloadState === 'error') {
+            entry.downloadState = 'pending';
+            // Clear error message when resetting
+            if (entry.errorMessage) {
+              delete entry.errorMessage;
+            }
+            resetCount++;
+          }
+        }
+        
         if (this.options.verbose) {
           const existing = Object.keys(this.index).length;
           console.log(`📋 Loaded existing index with ${existing} entries`);
+          if (resetCount > 0) {
+            console.log(`🔄 Reset ${resetCount} entries from 'downloading'/'error' to 'pending'`);
+          }
         }
       } catch (error) {
         if (this.options.verbose) {
@@ -215,7 +232,13 @@ export class DownloadManager {
         if (this.options.verbose) {
           const progress = this.getProgress();
           const status = result.success ? '✅' : '❌';
-          console.log(`${status} [${progress.completed + progress.failed}/${progress.total}] ${isbn}.pdf ${result.success ? 'completed' : `failed: ${result.errorMessage}`}`);
+          if (result.success && result.fileSize && result.downloadTime) {
+            const sizeInMB = (result.fileSize / (1024 * 1024)).toFixed(2);
+            const timeInSeconds = (result.downloadTime / 1000).toFixed(1);
+            console.log(`${status} [${progress.completed + progress.failed}/${progress.total}] ${isbn}.pdf completed (${sizeInMB} MB, ${timeInSeconds}s)`);
+          } else {
+            console.log(`${status} [${progress.completed + progress.failed}/${progress.total}] ${isbn}.pdf ${result.success ? 'completed' : `failed: ${result.errorMessage}`}`);
+          }
         }
       } catch (error) {
         if (this.options.verbose) {
@@ -303,9 +326,6 @@ export class DownloadManager {
               // Resolve relative URLs
               const redirectUrl = new URL(location, url).toString();
               
-              if (this.options.verbose && redirectCount === 0) {
-                console.log(`🔄 Following redirect for ${isbn}: ${response.statusCode} → ${redirectUrl}`);
-              }
               
               // Follow the redirect
               const result = await this.downloadWithRedirects(
@@ -332,13 +352,24 @@ export class DownloadManager {
             const writeStream = createWriteStream(filePath);
             response.pipe(writeStream);
 
-            writeStream.on('finish', () => {
-              resolve({
-                isbn,
-                success: true,
-                filePath,
-                downloadTime: Date.now() - startTime
-              });
+            writeStream.on('finish', async () => {
+              try {
+                const stats = await stat(filePath);
+                resolve({
+                  isbn,
+                  success: true,
+                  filePath,
+                  downloadTime: Date.now() - startTime,
+                  fileSize: stats.size
+                });
+              } catch (error) {
+                resolve({
+                  isbn,
+                  success: true,
+                  filePath,
+                  downloadTime: Date.now() - startTime
+                });
+              }
             });
 
             writeStream.on('error', (error) => {

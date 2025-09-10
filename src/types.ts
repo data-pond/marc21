@@ -152,6 +152,7 @@ export interface DownloadResult {
   filePath?: string;
   errorMessage?: string;
   downloadTime?: number;
+  fileSize?: number;
 }
 
 export interface DownloadProgress {
